@@ -26,5 +26,4 @@ let userTwo=userone
 
 userTwo.email="soubhagya@gmail.com"
 console.log(userone.email)
-
 //here value changes because in case of non-primitive type/ reference type it gives a reference to that object
